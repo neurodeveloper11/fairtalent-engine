@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  fairtalent-engine:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: fairtalent-engine
+    ports:
+      - "8000:8000"
+    environment:
+      - ENVIRONMENT=production
+      - LOG_LEVEL=info
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
