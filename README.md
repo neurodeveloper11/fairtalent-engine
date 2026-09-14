@@ -6,6 +6,7 @@
 [![Pydantic v2](https://img.shields.io/badge/Pydantic-v2_Strict-E92063?style=flat-square&logo=pydantic&logoColor=white)](https://pydantic.dev)
 [![Polars](https://img.shields.io/badge/Polars-Vectorized_OLAP-CD792C?style=flat-square&logo=polars&logoColor=white)](https://pola.rs)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%40neurodeveloper-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/neurodeveloper)
 [![Tests](https://img.shields.io/badge/PyTest-100%25_PASS-brightgreen?style=flat-square&logo=pytest&logoColor=white)](tests/)
 [![Compliance](https://img.shields.io/badge/Compliance-EEOC_%E2%80%A2_NYC_LL144_%E2%80%A2_EU_AI_Act-blue?style=flat-square)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
@@ -203,3 +204,12 @@ Test coverage includes:
 Distributed under the **MIT License**. See `LICENSE` for details.
 
 *All applicant cohorts, candidate names, and simulation figures are 100% synthetic, generated for algorithmic demonstration and benchmark testing.*
+
+---
+
+## 👤 Author & Lead Architect
+
+**Fabio Ignacio Torres Benítez**  
+*Data Engineer | Cognitive Scientist & Clinical/Organizational Psychologist | Full-Stack AI Developer*  
+📍 Cali / Buenaventura, Colombia  
+🔗 [LinkedIn](https://www.linkedin.com/in/fabio-torres-39364b258) | [GitHub](https://github.com/neurodeveloper11) | [Hugging Face](https://huggingface.co/neurodeveloper) | [Google Play (NeuroGym Live)](https://play.google.com/store/apps/details?id=com.t11.neurochess&hl=es_419)
